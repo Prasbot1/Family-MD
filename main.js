@@ -21,6 +21,7 @@
  * ~ adiwajshing/baileys (Library)
  * ~ Nurutomo
  * ~ Bochilgaming
+ *~ pras
  * ~ FokusDotId (Creator for this script)
  * ~ kawan-kawan semua yg telah membantu mengembangkan script ini.
  *
